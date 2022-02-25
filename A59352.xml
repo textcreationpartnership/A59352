@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triumphs of London performed on Saturday, Octob. 29, 1692, for the entertainment of the Right Honourable Sir John Fleet, Kt., lord mayor the city of London : containing a true description of the several pageants, with the speeches spoken on each pageant, all set forth at the proper costs and charges of the vvorshipful Company of Grocers : together with an exact relation of the most splendid entertainments, prepared for the reception of Their Sacred Majesties / by E.S.</title>
+            <author>Settle, Elkanah, 1648-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59352</idno>
+            <idno type="STC">Wing S2724</idno>
+            <idno type="STC">ESTC R37375</idno>
+            <idno type="EEBO-CITATION">16412482</idno>
+            <idno type="OCLC">ocm 16412482</idno>
+            <idno type="VID">105380</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105380)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1158:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triumphs of London performed on Saturday, Octob. 29, 1692, for the entertainment of the Right Honourable Sir John Fleet, Kt., lord mayor the city of London : containing a true description of the several pageants, with the speeches spoken on each pageant, all set forth at the proper costs and charges of the vvorshipful Company of Grocers : together with an exact relation of the most splendid entertainments, prepared for the reception of Their Sacred Majesties / by E.S.</title>
+                  <author>Settle, Elkanah, 1648-1724.</author>
+               </titleStmt>
+               <extent>[6], 12 [i.e. 13] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Orme and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Error in paging: p. 13 numbered 12.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fleet, John, --  Sir, d. 1712.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105380:1"/>
+            <pb facs="tcp:105380:1"/>
+            <p>THE <hi rend="blackletterType">Triumphs of London.</hi> Performed on <hi>Saturday, Octob.</hi> 29. 1692. FOR THE Entertainment of the Right Honourable Sir John Fleet, Kt. <hi>LORD MAYOR</hi> of the City of LONDON.</p>
+            <p>CONTAINING A True Deſcription of the Several Pageants; with the Speeches Spoken on each PAGEANT. All ſet forth, at the proper Coſts and Charges of the VVORSHIPFUL COMPANY of GROCERS.</p>
+            <p>Together, with An Exact Relation of the moſt Splendid Entertainments, prepared for the Reception of Their Sacred MAJESTIES.</p>
+            <p>By <hi>E. S.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi rend="blackletterType">Publiſhed by Authority.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>James Orme;</hi> And are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:105380:2"/>
+            <pb facs="tcp:105380:2"/>
+            <head>To the RIGHT HONOURABLE Sir John Fleet, Kt. <hi>LORD MAYOR</hi> of the City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>AS it lies in my Duty to Congratulate Your Lordſhips Acceſſion to the <hi>Pretorian Chair;</hi> amongſt the many unqueſtion'd Merits that have promoted You to that Dignity, I muſt joyn with the Acclamations of all that have the Honour to know Your Lordſhip, that You ſtand ſo qualified for <hi>Magiſtracy,</hi> that I may truly ſay, in Your Advance to the <hi>Seat of Juſtice, You come Experienced to the Ballance You hold:</hi> Your Commerce with the World, and indeed Your whole Life has been ſuch, that the Scales of Juſtice have been Your conſtant Standart.</p>
+            <p>The Dealings of Your Lordſhip with all Mankind, have al<g ref="char:EOLhyphen"/>ways ſtood that Teſt, That a hard Bargain, an Over-reach, a Rigour or Extremity, thoſe too common, and indeed reputed Venials in Trade and Traffick, have been ſo utterly Stranger to You, that from Your Equality, down to the pooreſt Perſon concern'd with You, You never made a Murmurer. A hard Word of Sir <hi>John Fleet</hi> is a ſound that never came near You<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gates: The common Voice that ſpeaks Your true Worth and Goodneſs is, without an Exception, Univerſal: And if 'tis poſſibl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Your Lordſhip can have an Enemy, he that is ſo, muſt renounc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>common Humanity,</hi> and write <hi>Barbarian</hi> to qualifie for that Name</p>
+            <pb facs="tcp:105380:3"/>
+            <p>Your known Integrity has been ſo remarkably ſignal, that Chaffering or Factoring have been thought ſo unneceſſary Preli<g ref="char:EOLhyphen"/>minaries in dealing with Sir <hi>John Fleet,</hi> that 'tis enough You are the Mouth and Oracle both of Buyer and Seller: Equity and Juſtice are left to Your own Decree; inſomuch that You ſit Chancellor, when You trade Merchant.</p>
+            <p>And, that ſo fair a Character of Your Lordſhip is no artful nor borrow'd Colours, but Your Natural and Subſtantial Com<g ref="char:EOLhyphen"/>plexion; beſides the Concurrence of all Tongues to give You this Right, we have the particular Smiles of Providence to joyn in the Teſtimonial; Your extraordinary Affluence of Bleſ<g ref="char:EOLhyphen"/>ſings, and ſo early and quick an Advance to ſuch a Maſs of Proſperity, being undoubtedly the peculiar Showrs of Heaven in Reward of ſo much deſerving Virtue.</p>
+            <p>But now, my Lord, to uſher Your Lordſhip to Your <hi>Inaugu<g ref="char:EOLhyphen"/>ration,</hi> and the publick Manifeſtation of the General Applauſe that waits Your Lordſhips <hi>Enſtallment;</hi> here, as too humble an Intruder, I leave You to Your VVorthier Train of Vota<g ref="char:EOLhyphen"/>ries. But, in all the Honours of the Day, the proudeſt of Your Triumph is Your Reception of Your Royal Gueſts; and the Richeſt of Their Feaſt, the hearty Zeal that entertains Them; it being indeed (to ſumm Your Merits) no little Pride to all Good Men, to have Two ſuch Princes ſerved by ſuch a Magi<g ref="char:EOLhyphen"/>ſtrate: In which Poſt of Glory I leave Your Lordſhip, being in all Humility,</p>
+            <closer>
+               <salute>MY LORD,</salute>
+               <signed>Your Lordſhips most Dutiful Servant, <hi>E. SETTLE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:105380:3"/>
+            <head>TO THE WORSHIPFUL COMPANY OF GROCERS.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>WHEN I appear before You, and, enter'd under ſo Spaci<g ref="char:EOLhyphen"/>ous a Roof, preſume on one Hand to ſurvey the Worthy and Numerous Members of Your Honourable Society; or on the other hand the more large Extent of your Commerce and Traffick, (either of which Contemplations are a Province above me) I ſhall content my ſelf to ſumm up my Speculation on ſo inviting a Subject, by giving You this Due.</p>
+            <p>
+               <hi>Gentlemen,</hi> The whole World is but your Garden, and Nature your Confectioner, whilſt all the Richeſt Sweets and Spices, and all the Treaſures of your own <hi>Phoenix</hi> Neſt are ſo intirely Yours, that I may juſtly ſay, the ſofteſt Dew of Heaven falls for Your ſakes, and the warmeſt Beams of Day ſmile and cheriſh for You, whilſt the nobleſt Fruits and Products of the Earth only furniſh your Granary: And if the Creation, ſince the ſhut Gates of <hi>Eden,</hi> and the flaming Sword before it, has any Remains of Paradice left, 'tis only in your Hands.</p>
+            <p>To tell the World, how many Monarchs have vouchſafed to make themſelves Members of the <hi>Grocers</hi> Company; for Inſtance, the Second <hi>Charles,</hi> and our preſent Gracious <hi>William,</hi> (not to mention the ſeveral Nobility that have been proud of being en<g ref="char:EOLhyphen"/>roll'd in the ſame Liſt) too plainly intimates your Particular
+<pb facs="tcp:105380:4"/>Worth and Deſerts, when the Inclinations of ſo many Crown'd-Heads have ſingled out Your Favourite Society their Particular Election and Choice.</p>
+            <p>And when we look into the Records of Your Numerous Pa<g ref="char:EOLhyphen"/>trons and Benefactors, methinks they ſtand a perfect Emulation of Piety and Bounty. Nor has your own continued Splendour any ways derogated from the Luſter of Your Great Founders. Your Magnificence, on all Occaſions, ſometimes perhaps even to a Fault, (if Glory can be one, and poor I may dare to call it ſo,) has ever been Extraordinary. And if the Particular Gallantry de<g ref="char:EOLhyphen"/>ſign'd for this Day fall any ways ſhort of your Intended Enter<g ref="char:EOLhyphen"/>tainment of his Lordſhip, the Misfortune lies only in the Short<g ref="char:EOLhyphen"/>neſs of the Preparation, occaſion'd by his Lordſhips Tranſlation to your Society, not early enough to ſupply the Artiſts Hands with Time ſufficient for a more ſumptuous Cavalcade.</p>
+            <p>I have a very ample Feild before me; but in recounting the many Honorus ſo juſtly Your Due, alas! I make you but a very ſlender Oblation, when the Incenſe I offer is all your own; for the Grandeur of ſo Honourable a Company challenges both that Eminence and Antiquity, that the little Oratory of ſo poor a Pen, is but a very feeble Illuſtration to Merits and Virtues ſo Con<g ref="char:EOLhyphen"/>ſpicuous.</p>
+            <p>I ſhall therefore conclude, with only one hearty Wiſh: As You have been bleſt with ſo many Noble Founders, may the <hi>Honorable Living</hi> be inſpired by the Example of the <hi>Great Dead;</hi> and may you never want, what You ſhall always deſerve, the kindeſt of Benefactors: Which ſhall be the Prayer of,</p>
+            <closer>
+               <salute>GENTLEMEN,</salute>
+               <signed>Your moſt Devoted humble Servant, <hi>E. SETTLE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:105380:4"/>
+            <head>The Movements of the Morning.</head>
+            <p>Between Seven and Eight in the Morning the whole Company deſign'd for the Duty of the Day, meet at <hi>Grocers-Hall.</hi>
+               <list>
+                  <item>1. THE Maſter, Wardens, and Aſſiſtants, in Gowns ſaced with Foins, and their Hoods.</item>
+                  <item>2. The Livery in their Gowns Faced with Budg<g ref="char:punc">▪</g> and their Hoods.</item>
+                  <item>3. Forty Foyns Batchelors in Gowns and Scarlet Hoods.</item>
+                  <item>4. Forty Budg-Batchelors in Gowns and Scarlet Hoods.</item>
+                  <item>5. Forty Gentlemen Uſhers in Velvet Coats, each of them a Chain of Gold about his Shoulder, and a White Staff in his Hand.</item>
+                  <item>6. Several Drums and Fifes with Scarfs, and the Colours of the Company in their Hats, Crimſon and White.</item>
+                  <item>7. The Serjeant Trumpet, and Twenty Four Trumpets more, wherof Sixteen are their Majeſties, the Serjeant-Trumpet wearing Two Scarfs, a Crimſon; and a White.</item>
+                  <item>8. The Drum-Major to the King, wearing a Shoulder-Scarf of the Companies Colours, with others of Their Ma<g ref="char:EOLhyphen"/>jeſties Drums and Fifes.</item>
+                  <item>9. The Two City Marſhals, each of them Mounted on Horſe-back, with Rich Furniture, Hooſings, and Crupper all Embroider'd: Six Servitors likewiſe Mounted to Attend, with Scarfs, and Colours of the Companies.</item>
+                  <item>10. The Foot-Marſhal with a Scarf, and Six attendants in Colours.</item>
+                  <item>11. The Maſter of Defence with the ſame Scarf and Co<g ref="char:EOLhyphen"/>lours, Eight Perſons of the ſame Science to attend him.</item>
+                  <pb n="2" facs="tcp:105380:5"/>
+                  <item>12. Twenty Penſioners with Coats and Caps, employ'd in carrying Standards and Banners.</item>
+               </list>
+            </p>
+            <p>This order'd, and accommodated, they are commited to the management of the Foot-Marſhal, who diſtributes them in ſeven Diviſions, and rank'd all two by two, beginning with the inferior part of the Standard-Bearers. In the head of them are placed two Drums, one Fife, and one Gentle<g ref="char:EOLhyphen"/>men, bearing the Companies Arms.</p>
+            <p>In the Rear of them, two Gentlemen bearing Banners, containing the Arms of the deceaſed Benefactors.</p>
+            <p>In the Center of them, fall two Drums.</p>
+            <p>In the Rear of them three Drums, one Fife, and two Gentlemen in Pluſh-Coats, bearing two Banners, one of Their Majeſties, the other of the Companies. After them Six Gentlemen-Uſhers, follow'd by the Budg-Batchelors.</p>
+            <p>The next, two Gentlemen bearing two other Banners. After them Six Gentlemen Uſhers, ſucceeded by the Foyns Batchelors.</p>
+            <p>In the Rear fall in two Drums, and a Fife. Then two Gentlemen one bearing my Lord MAYORS, the other the City Banners. Then Twelve Gentlemen Uſhers, and and after them the Court of Aſſiſtance, which makes the laſt Diviſion.</p>
+            <p>The Right Honourable the LORD MAYOR, with the Principal Aldermen and Sheriffs, Mounts his Horſe, with the Aldermen two by two, the Sheriffs in the Rear.</p>
+            <p>In this Equipage of two and two, the whole Body move toward <hi>Grocers-Hall,</hi> where the Lord Mayor Elect attend<g ref="char:EOLhyphen"/>ed from <hi>Clothworkers Hall</hi> joyns with the Old Lord Mayor and his Retinue; whence all of them in this Order march through <hi>Kingſtreet</hi> down to <hi>Three Crane-Wharf,</hi> there en<g ref="char:EOLhyphen"/>tring into their ſeveral Barges which are gloriouſly adorn<g ref="char:EOLhyphen"/>ed with Flags and Pendants, His Lordſhip and this Gallant Company all Landing at <hi>Weſtminſter,</hi> is conducted to the
+<pb n="3" facs="tcp:105380:5"/>Exchequer-Bar; there having performed ſeveral Ceremo<g ref="char:EOLhyphen"/>nial and Cuſtomary Duties, and taken the Oaths to Their Majeſties, he returns again by Water to <hi>Black-Fryers-Stairs,</hi> with Drums Beating, Trumpets Sounding, Muſick Play<g ref="char:EOLhyphen"/>ing, <hi>&amp;c.</hi>
+            </p>
+            <p>There his Lordſhip, and the ſeveral Companys Landing from their Reſpective Barges, the reſt of the Attendents that went not to <hi>Weſtminſter,</hi> waiting for his Reception, the whole Body moves in Order before him to <hi>Cheap-ſide,</hi> where his Lordſhip is ſaluted with the Firſt Pageant.</p>
+         </div>
+         <div n="1" type="pageant">
+            <head>The Firſt Pageant.</head>
+            <p>ON a Large Stage is mounted a Golden Camel upon a Pedeſtal moſt richly Ornamented, with Carved Works of Gold and Silver, being a proper Baſis for ſo Noble a Creature, as the Honourable Creſt of the Worſhipful Com<g ref="char:EOLhyphen"/>pany of <hi>GROCERS.</hi>
+            </p>
+            <p>On the Back of this Magnificent Creature, between two Frails of Fruits, as Raiſins, and Almonds, Dates, Spices, and Gumms of all ſorts, ſits a Negro habited according to the <hi>Indian</hi> Manner, in one Hand the King's Banner, with the other liberally diſtributing the Bountiful Product of his Country, his Bridle and Trappings being Crimſon, as the proper Colours of the Ancient Company of <hi>GROCERS.</hi>
+            </p>
+            <p>On a Deſcent beneath, ſits placed four Cardinal Virtues, <hi>Juſtice, Temperance, Prudence, and Fortitude,</hi> Habited with their proper Ornaments; as Juſtice in a Robe of white S lk to ſhew her Innocency; in one Hand a large Banner of my Lords Arms, in the other a Sword of Juſtice, and a pair of
+<pb n="4" facs="tcp:105380:6"/>Golden Scales; which Young Virgin makes a Speech to the <hi>Lord Mayor,</hi> as his firſt Entertainment in <hi>Cheapſide.</hi>
+            </p>
+            <p>The reaſon why Juſtice is expreſt by a Young Virgin, to ſhew that Judges and Adminiſtrators of the Law ought to be Incorrupt and free from Bribes, Partiality, or Flattery, but conſtant and ſincere.</p>
+            <p>On the four Corners of the Stage are Erected four Pyra<g ref="char:EOLhyphen"/>mids of Honour, Ornamented with the Coats of Arms of the Worthy Benefactors and Freemen of the Virtuous Company of <hi>GROCERS,</hi> as a true <hi>Emblem</hi> of their Ju<g ref="char:EOLhyphen"/>ſtice and Piety.</p>
+            <div type="speech">
+               <head>The Speech Spoken by <hi>J<g ref="char:V">Ʋ</g>STICE.</hi>
+               </head>
+               <l>BEhold Proud <hi>Londons</hi> Great <hi>Praetorian Lord</hi>
+               </l>
+               <l>Commands at once my Ballance, and my Sword.</l>
+               <l>Yes, Sir, with Triumph I my Wreaths reſign:</l>
+               <l>So well my Chaplets muſt Thoſe Brows entwine.</l>
+               <l>
+                  <hi>Juſtice</hi> to You muſt Tributary be:</l>
+               <l>My Ballance weighs the World, and You weigh Me.</l>
+               <l>
+                  <hi>Juſtice!—</hi> How nobly muſt you fill that Sphear,</l>
+               <l>When Sacred <hi>William</hi> mounts and Plants You there?</l>
+               <l>When Greatneſs, Honour, Truth, ſo all Divine,</l>
+               <l>'Tis He that lends thoſe Rays with which you ſhine;</l>
+               <l>Whilſt from his Hand You hold Your rolling Year,</l>
+               <l>Drive on, Great Sir, a Glorious Charioteer.</l>
+               <l>A Fairer Circle You can never run,</l>
+               <l>Nor can You borrow from a Warmer Sun.</l>
+            </div>
+         </div>
+         <div n="2-3" type="pageants">
+            <pb n="5" facs="tcp:105380:6"/>
+            <head>The Two following Pageants.</head>
+            <p>ARe Two Griffons, erected on two large Stages, being the Antient Supporters of the Arms of the Company of <hi>GROCERS,</hi> Elaborated, Guilded, and Painted ac<g ref="char:EOLhyphen"/>cording to their proper Bearings. On the Backs of theſe two ſtately Creatures, between their Wings ſit mounted on two large Frails of Fruit and Spice, two Tawny Moors richly adorned, and array'd in choice <hi>Indian</hi> Silks, the Ha<g ref="char:EOLhyphen"/>bit befitting the Degree and Quality of the Figures, in all the gayeſt Finery ſuitable to the Occaſion. In their Right Hands they hold the <hi>King's Bannor,</hi> and the <hi>Cities;</hi> in their Left, a Shield, with the Arms of the <hi>Company.</hi> On their Heads are <hi>Coronets</hi> of Feathers, beſet with Pearls and Jewels.</p>
+            <p>On the 8 Corners of the two Stages, ſit eight Figures, inti<g ref="char:EOLhyphen"/>mating eight more Virtues, as <hi>Love</hi> and <hi>Honour, Induſtry</hi> and <hi>Vigilance, Truth</hi> and <hi>Mercy, Hope</hi> and <hi>Piety.</hi> All Habited according to the Ancients Deſcription, with Bannors Flying, and Trumpets Sounding, in <hi>Honour</hi> to the Worthy Magi<g ref="char:EOLhyphen"/>ſtrate, the Right Honourable Sir <hi>John Fleet.</hi>
+            </p>
+         </div>
+         <div n="4" type="pageant">
+            <pb n="6" facs="tcp:105380:7"/>
+            <head>The Fourth Pageant. The Triumphal Temple of <hi>PALLAS.</hi>
+            </head>
+            <p>THis Temple is moſt exquiſitly contrived, and beauti<g ref="char:EOLhyphen"/>fied with all the Ornaments and Embelliſhments ima<g ref="char:EOLhyphen"/>ginable, the Compoſure of the Fabrick being of the moſt ſtately Ancient Architecture.</p>
+            <p>In the Contrivance of this Temple are four Arches or Neiches, wherein are placed four Figures, Repreſenting four Poetical Deities, all moſt richly Habited.</p>
+            <p>Firſt <hi>Pallus</hi> the Goddeſs of Wiſdom, Arts and Arms, ac<g ref="char:EOLhyphen"/>cording to her three Titles of <hi>Pallas, Minerva</hi> and <hi>Bellona;</hi> her Habit is a Robe of Purple, with a Silver Head-piece, and a plume of Red and White Feathers; in her Right Hand ſhe holds a Banner of the City-Arms, and in her Left a Spear and Shield charged with a Gorgons Head.</p>
+            <p>The ſecond Figure is <hi>Neptune</hi> the God of the Sea, in a Sea-green ſilken Robe, his Coronet of Shells and Corals, in one Hand the King's-Banner, in the other a Trident, in<g ref="char:EOLhyphen"/>timating his Soveraignty of the Seas.</p>
+            <p>The third Figure <hi>Thetis</hi> the Goddeſs of the Sea, in a watchet colour ſilk Robe, and a Coronet of Flowers.</p>
+            <p>The fourth Figure is <hi>Mercury</hi> the God of Wit in a Sky<g ref="char:EOLhyphen"/>colour'd Robe, on his Head a Silver Cap with two ſmall Silver Wings, in one Hand his Caduce, in the other the Banner of the Companies.</p>
+            <pb n="7" facs="tcp:105380:7"/>
+            <p>The whole Temple is Dedicated to the Honour of the <hi>GROCERS,</hi> in intimating theſe four <hi>Gods</hi> and <hi>Goddeſſes,</hi> the Wiſdom and Wit requiſite for the Management of their Traffick through all parts of the Univerſe; and the Ocean the proper Scene of their Commerce, as importing from thence all their Spices and Fruits from the remoteſt Planta<g ref="char:EOLhyphen"/>tions of the World. And the whole likewiſe applicable to his Lordſhip, the Goddeſs of Wiſdom being the principal Figure in the Front of the Temple, implying the neceſſity of Wiſdom to preſide at the Helm, in governing the <hi>Metro<g ref="char:EOLhyphen"/>polis</hi> of <hi>England.</hi>
+            </p>
+            <div type="speech">
+               <head>The Speech ſpoken by <hi>PALLAS.</hi>
+               </head>
+               <lg>
+                  <lg>
+                     <l>WHen Arts, Arms, Wiſdom, in one Goddeſs joyn,</l>
+                     <l>By ſuch proud Attributes enſtall'd Divine,</l>
+                     <l>How bright muſt the Illuſtrious <hi>Pallas</hi> ſhine?</l>
+                  </lg>
+                  <l>But hold; why do I fill this borrow'd Throne?</l>
+                  <l>And arrogate thoſe Plumes are not my own?</l>
+                  <l>To You, Great Sir, I all my Laurels owe;</l>
+                  <l>Thy're only Plants which from Your Garden grow.</l>
+                  <l>Arts Glorious Patron, and their Founder too,</l>
+                  <l>Are Titles, Sir, alone belong to You.</l>
+                  <l>Arms too are Yours. Does the ſhrill Trumpet ſound</l>
+                  <l>To Battle? is the conquering <hi>Heroe</hi> Crown'd!</l>
+                  <l>Tis Wealth, the Nerve of War, the Soldier fires,</l>
+                  <l>And the Rich City the rough Camp Inſpires.</l>
+                  <pb n="8" facs="tcp:105380:8"/>
+                  <lg>
+                     <l>And Wiſdom, Sir, that's doubly Yours, that fair</l>
+                     <l>And brighteſt Jewel that adorns Your Chair;</l>
+                     <l>The Merit that advanc'd, and fixt You there.</l>
+                  </lg>
+                  <l>Let that, Great Magiſtrate, Your Councils guide,</l>
+                  <l>And win all Hearts, the Cities Love and Pride.</l>
+                  <l>Then, what Rich Bleſſings from Your power ſhall flow?</l>
+                  <l>For, Oh, what Wonders cannot Wiſdom do!</l>
+                  <l>When Wiſdom ſteers the Helm, and rules the Stage,</l>
+                  <l>She Plants a Golden, 'midſt an Iron, Age.</l>
+               </lg>
+               <p>Hence the Lord Mayor, the Sheriffs, the Aldermen and this whole Honourable Train, move to <hi>Guildhall;</hi> where they finiſh the Triumphs of the Day, in the Honour they re<g ref="char:EOLhyphen"/>ceive of attending on Their Majeſties at Dinner.</p>
+            </div>
+         </div>
+         <div type="reception">
+            <head>The Preparations for whoſe Reception, are as follows.</head>
+            <p>UPon the <hi>Huſtings,</hi> at the Upper-end of the Hall, is erected a ſtately Structure of the <hi>Corinthian</hi> Order.</p>
+            <p>This Structure is ſupported firſt by two noble Columns of <hi>Aegyptian</hi> Marble, whoſe Baſes and Capitals are Gold.</p>
+            <p>On the top of theſe are advanced two Pyramids of Mo<g ref="char:EOLhyphen"/>dern Trophies, as Banners, Head-pieces, <hi>&amp;c.</hi>
+            </p>
+            <p>Between theſe two Columns is planted an Arch, on which is erected the King's-Arms, in a moſt noble Shield, with Feſtoons of Silver on each ſide, and the Cities Arms be<g ref="char:EOLhyphen"/>neath it.</p>
+            <pb n="9" facs="tcp:105380:8"/>
+            <p>On the Right and Left of theſe Columns, ſtand four Pilaſters of <hi>Lapis Lazari,</hi> with Capitals and Baſes of Gold, Ornamented with Feſtoons and Shields of Silver. On the tops of theſe Pilaſters are erected <hi>Neptune</hi> and <hi>Pallas.</hi>
+            </p>
+            <p>On the other two Pilaſters, are two Pyramids of Ancient Military Trophies, as Helmets, Plumes, Bows, Qui<g ref="char:EOLhyphen"/>vers, <hi>&amp;c.</hi>
+            </p>
+            <p>Over all is a large Etableture of Silver, in the middle of which, between the Pilaſters and Columns, are planted eight Shields, or Targets, bearing the Arms of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> interchanged.</p>
+            <p>The other four, the Kings, the Cities, the Lord Mayors, and the Grocers, likewiſe interchanged.</p>
+            <p>Round the Columns are twiſted this Motto, relating to the Poetical Story of <hi>Perſeus</hi> and <hi>Andromeda.</hi>
+            </p>
+            <q xml:lang="lat">Huc volat, hoc fugat, hanc ſolvens cupiente potitur.</q>
+            <p>Thus Engliſht.</p>
+            <q>
+               <l>Hither he flew, this Monſter he deſtroy'd,</l>
+               <l>And his dear Care the grateful Nymph enjoy'd.</l>
+            </q>
+            <p>On the Front of all, annext to the Etableture, are four Shields.</p>
+            <p>Two of which contain the King and Queens Effigies, and the other two the late Memorable Fight at Sea, with theſe Motto's.</p>
+            <pb n="10" facs="tcp:105380:9"/>
+            <q xml:lang="lat">FIDEI STATORES.</q>
+            <p>Thus Paraphraſed,</p>
+            <q>
+               <l>T' our <hi>Faiths Defenders</hi> let our Homage bow,</l>
+               <l>Thoſe Titular Names are ſolid Glories now.</l>
+            </q>
+            <q xml:lang="lat">Imperium Oceano Famam non terminet Aſtris.</q>
+            <q>
+               <l>Let the wide Ocean his Dominion bound,</l>
+               <l>But his loud Fame beyond the Stars reſound.</l>
+            </q>
+            <q xml:lang="lat">Naſſoviae nil non efficient Manus.</q>
+            <q>
+               <l>What Glories are for <hi>Naſſau</hi>'s Arms decreed,</l>
+               <l>His own Steel Pen ſhall Write, and Ages Read.</l>
+            </q>
+            <p>In the two Naval Targets, under the <hi>French</hi> Fleet, is writ<g ref="char:EOLhyphen"/>ten this Motto.</p>
+            <q xml:lang="lat">Extincto ſole, victâ invincibili.</q>
+            <q>
+               <l>When <hi>Power</hi> meets <hi>Pride,</hi> thus Inſolence purſu'd,</l>
+               <l>Their <hi>Sun</hi> extinct, <hi>Invincible</hi> ſubdu'd.</l>
+            </q>
+            <p>Under this Structure adorned with all other ſtate and Magnificence ſuitable, Dine their Majeſties and the Ladies of the Bed-chamber.</p>
+            <p>On Their Right Hand, on the Northſide of the Hall, on a rais'd Work ſumptuouſly cover'd, Dine the Foreign A<g ref="char:EOLhyphen"/>gents, and Principal Miniſters of State.</p>
+            <pb n="11" facs="tcp:105380:9"/>
+            <p>On Their Left, on a rais'd Work, equally adorned, Dine Their Majeſties Privy Council, and the other Lords Spiri<g ref="char:EOLhyphen"/>tual and Temporal.</p>
+            <p>On a ſecond rais'd Work, on the ſame ſide, are ſeated the Commiſſioners of the Treaſury and Cuſtom-Houſe, <hi>&amp;c.</hi>
+            </p>
+            <p>Right over-againſt Their Majeſties Table, at the Weſt end of the Hall, ſit the Lord Mayor and Aldermen; and beneath, on either hand, Dine the Livery.</p>
+            <p>In the Lord Mayors Court above, Dine the Lady May<g ref="char:EOLhyphen"/>oreſs, and the Aldermens Ladies: And after Them, at the ſame Table, new ſpread, are the Queens Maids of Honour are entertain'd.</p>
+            <p>In the Old Council-Chamber, are ſeated all the Judges and Serjeants at Law. And in the Orphans Court, all the Clerks and their Retinue.</p>
+            <p>And in the <hi>Iriſh</hi> Chamber, all thoſe Honourable Atten<g ref="char:EOLhyphen"/>dants that wait on the King at Dinner.</p>
+            <p>The Entertainment is furniſh'd with three Sets of Muſick, Their Majeſties private Muſick on a ſcaffold over the <hi>Huſtings:</hi> The King's and City Muſick in the Gallery of the Hall, and the Trumpets and Kettle-Drums, <hi>&amp;c.</hi> on a ſtage at the Lower end of the Hall, the Serjeant-Trumpet on all occaſions giving the Signal to the Trumpets and Kettle-Drums of Their Majeſties and the Lord Mayor's Health, from either Table.</p>
+            <pb n="12" facs="tcp:105380:10"/>
+            <p>Having thus far introduced my Reader into this glitter<g ref="char:EOLhyphen"/>ing Scene of Gallantry, I ſhall not pretend to give him any farther Particulars, either in ſetting forth the Tables, or Marſhalling the Diſhes: I'le omit that unneceſſary Relation. I believe there needs but little Deſcription of that Feaſt, where the Lord Mayor, the Sheriffs, and the Court of Al<g ref="char:EOLhyphen"/>dermen, <hi>&amp;c.</hi> are the Founders. I leave my Reader there<g ref="char:EOLhyphen"/>fore to his own Imagination to think, how ſuch Royal Gueſts may be entertain'd by ſuch Inviters.</p>
+            <p>But among theſe gay and Jovial Gueſts I had almoſt for<g ref="char:EOLhyphen"/>gotten a very important part of our Good Company, <hi>viz.</hi> the numerous Crowd of Gazers and Spectators of both Sexes, who though not altogether ſo well provided for, as the other ſeated Gueſts, and perhaps their Mouths go not ſo chearfully, will have nevertheleſs all the reſt of their Senſes ſo highly Banqueted, that undoubtedly they will receive that intire content and ſatisfaction, as to depart with little leſs than the whole Pleaſure and Riot of a perfect Fe<g ref="char:EOLhyphen"/>ſtival.</p>
+            <p>And, Gentlemen, You that do me the Honour to peruſe this ſhort, but exact Narration I have here made you, be<g ref="char:EOLhyphen"/>ing indeed no more than the Feaſt in <hi>Miniature,</hi> were I that Artiſt, as <hi>Apelles</hi> with his Grapes, to give your well pleas'd Fancy any Reliſh or Taſte of ſo glorious an Entertainment, I ſhould not a little pride my ſelf, in adding my Readers to the Number of the Gueſts.</p>
+            <p>Here leaving the City to their Pride and Glory, in their humbleſt Tenders of their Loyalty and Zeal to their <hi>Royal Gueſts,</hi> and Their Majeſties Themſelves to the unqueſtion'd Delight they ſhall receive from the Loyal Hearts and Knees
+<pb n="12" facs="tcp:105380:10"/>that wait them there; in all this Splendour, and all the Ho<g ref="char:EOLhyphen"/>nour and Quality that ſwell the Grandeur of the Day; I beg the <hi>Readers</hi> leave, in drawing to a Concluſion, to thruſt in my ſelf ſo far a Sharer and Participater of the Feaſt, as to joyn both with the Gueſts and Spectators in, at leaſt, one of the chearfulleſt parts of the Entertainment, <hi>viz.</hi> in the Univerſal Acclamations of</p>
+            <closer>
+               <hi>Long Live our Gracious Soveraigns, King</hi> WILLIAM <hi>and Queen</hi> MARY; <hi>And ever Flouriſh the Honourable City of</hi> LONDON.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>FAtal Friendſhip:</hi> Or, the <hi>Drunkards Miſery.</hi> Being a Satyr againſt that Pernicious Vice of <hi>Exceſſive</hi> and <hi>Hard Drinking.</hi> With the Dangerous Conſequences attend<g ref="char:EOLhyphen"/>ing it, both as to Body and Soul: Offer'd to the Conſidera<g ref="char:EOLhyphen"/>tion of all; but more eſpecially, the Younger ſort. Written by way of Eſſay, by the Author of <hi>The Search after Claret.</hi> Printed for and ſold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall.</hi>
+            </p>
+            <p>Price Stitch'd, Six Pence.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
